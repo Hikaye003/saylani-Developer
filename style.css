@@ -1,0 +1,24 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+nav{
+    display: flex;
+    margin-top: 20px;
+}
+
+ul li {
+    display: inline;
+}
+#nac-bar{
+    margin-left: 30%;
+}
+
+#logo{
+    margin-left: 10%;
+}
+li a{
+    text-decoration: none;
+    margin: 10px;
+}
